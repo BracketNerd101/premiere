@@ -14,6 +14,10 @@
   padding-top: 8rem;
 }
 
+.bg_custom_color {
+  background-color: #C7FFD8;
+}
+
 .headline {
   font-size: calc(7.375rem + 1.5vw);
 }
