@@ -18,29 +18,36 @@
 .bg_custom_color {
 
     	// background-color:#f9f9f9;
-        background-color:#C7FFD8;
+        background-color:#ffffff;
 }
 
 // Typography styles
 
 .headline {
 
-
-    font-size: calc(7.375rem + 1.5vw);
-
-    // Small devices (landscape phones, 576px and up)
-@media (min-width: 576px) { font-size: calc(1rem + 1.5vw); 
-}
-
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { font-size: calc(5.375rem + 1.5vw);
-}
-
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) 
-{ font-size: calc(6.375rem + 1.5vw);
-
+    font-size: 4rem;
+    color    : #000000;
+    
 
 }
 
+.headline:hover {
+
+    font-size: 4rem;
+    color    : #8f2990;
+    cursor: pointer;
+
+
+        // background-image: url('../img/bill-refresh/final_bill_2.jpg');
+        // background-repeat: no-repeat;
+        // background-size: cover;
+        // height: 100vh;
+        // width: 100vw;
+    
 }
+
+a, h2 {
+
+    text-decoration: none;
+}
+
