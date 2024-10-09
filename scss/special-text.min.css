@@ -1,0 +1,1 @@
+.purple-offset-underline{position:relative}.purple-offset-underline::before{content:"";position:absolute;bottom:-1%;width:100%;left:0;height:1.8rem;background:rgba(93,3,177,0.401);z-index:-1}.aqua-offset-underline{position:relative}.aqua-offset-underline::before{content:"";position:absolute;bottom:-1%;width:100%;left:0;height:1.8rem;background:rgba(3,199,193,0.87);z-index:-1}
