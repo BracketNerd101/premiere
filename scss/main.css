@@ -15,7 +15,7 @@
 }
 
 .bg_custom_color {
-  background-color: #eae6e1;
+  background-color: #e6e1f9;
 }
 
 .headline {
@@ -35,6 +35,7 @@ a, h2 {
 
 .special_nav_style a {
   color: #161616;
+  font-size: 1.2rem;
 }
 
 .special_nav_style a:hover {
