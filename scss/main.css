@@ -42,3 +42,7 @@ a, h2 {
   text-decoration: overline;
   color: #a013a2;
 }
+
+.video_thumbnail_style_red {
+  background-color: #570202;
+}
