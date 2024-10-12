@@ -1,0 +1,54 @@
+#navbar_reveal {
+  position: fixed;
+  /* Make it stick/fixed */
+  top: 0;
+  /* Stay on top */
+  width: 100%;
+  /* Full width */
+  transition: top 0.3s;
+  /* Transition effect when sliding down (and up) */
+  position: fixed;
+  top: -130px;
+  width: 100%;
+  height: inherit;
+  display: block;
+  transition: top 0.3s;
+  z-index: 845654636436;
+  padding-top: 1.0rem;
+  padding-bottom: 1.4rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+#navbar_reveal .plus-button-style {
+  height: 3rem;
+  padding-top: 0.13rem;
+  color: #4dc14f;
+}
+
+#navbar_reveal .dropper-logo-style {
+  height: 3rem;
+}
+
+#navbar_reveal .small_pill_nav {
+  background-color: #fff;
+  padding-top: 0.7rem;
+  border-radius: 28px;
+  padding-left: 1rem;
+  padding-right: 0.7rem;
+}
+
+#navbar_reveal a {
+  padding-right: 0.5rem;
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  font-family: "poppins";
+  padding-bottom: 0.7rem;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+#navbar_reveal a:hover {
+  color: #9c2984;
+}

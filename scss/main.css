@@ -1,3 +1,4 @@
+@import url("/../scss/nav_classy_reveal.css");
 .pd-btm {
   padding-bottom: 15rem;
 }
@@ -45,4 +46,13 @@ a, h2 {
 
 .video_thumbnail_style_red {
   background-color: #570202;
+}
+
+.is-frontend .semplice-navbar {
+  position: fixed !important;
+  transition: ease transform 0.3s !important;
+}
+
+.semplice-navbar.hide-navbar {
+  transform: translateY(-100%) !important;
 }
